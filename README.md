@@ -86,4 +86,4 @@ Please ensure your code adheres to clean coding practices.
 Garvit Bansal
 📍 Ajmer, Rajasthan
 📧 garvitbansal0601@gmail.com
-🌐 LinkedIn
+🌐 [LinkedIn](https://www.linkedin.com/in/garvit-bansal-736233226/)
