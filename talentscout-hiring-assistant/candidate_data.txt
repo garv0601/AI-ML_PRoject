@@ -1,0 +1,7 @@
+Name: 
+Email: 
+Phone: 
+Experience: 0-1
+Position: 
+Location: 
+Tech Stack: 
